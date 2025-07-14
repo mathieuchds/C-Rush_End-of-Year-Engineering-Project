@@ -1,6 +1,6 @@
 # Mativa's Adventures – Game Rules
 
-## Introduction
+## 🧭 Introduction
 
 You awaken... soft, squishy, and utterly alone.
 
@@ -27,6 +27,21 @@ And when (if) you manage to activate every last button... the **exit will creak 
 
 ---
 
+## 🌍 Biomes
+
+Throughout the maze, you'll encounter **different types of biomes**, each affecting your **movement speed**.  
+From slowest to fastest:
+
+- **Quicksand biome**
+- **Poison biome**
+- **Classic biome**
+- **Water biome**
+- **Ice biome**
+
+Each biome challenges your navigation and adds strategy to your decisions during exploration or escape.
+
+---
+
 ## 🎮 Controls
 
 - ⬆️ ⬇️ ⬅️ ➡️ – Move the character (up, down, left, right)  
@@ -50,12 +65,16 @@ You begin in a dark maze, next to a **magical portal**. Your first mission:
 
 The number of buttons activated is shown on the **right side of the screen**.
 
-![Button counter examples – image 1](img/button_icon.png)
-![Button counter examples – image 2](img/button_ice.png)
-![Button counter examples – image 3](img/button_sand.png)  
-![Button counter examples – image 4](img/button_swamp.png)
-![Button counter examples – image 5](img/button_water.png)  
-*Differents buttons in function of biom*
+<p align="center">
+  <img src="img/button_icon.png" width="60"/>
+  <img src="img/button_ice.png" width="60"/>
+  <img src="img/button_sand.png" width="60"/>
+  <br/>
+  <img src="img/button_swamp.png" width="60"/>
+  <img src="img/button_water.png" width="60"/>
+</p>
+
+<p align="center"><em>Buttons as they appear in different biomes.</em></p>
 
 ---
 
@@ -76,10 +95,15 @@ When the light is off:
 - This will injure the mantis, forcing it to **teleport back** to its green portal.
 - When it is not actively hunting you, its icon appears **grayed out**.
 
-![Mantis hidden icon](img/monster_icon_hunt.png)
-![Mantis revealed](img/monster_walk.png)
-![Mantis hidden icon2](img/monster_icon_chill.png)  
-*The mantis in various states: hidden, revealed, and vulnerable.*
+<p align="center">
+  <img src="img/monster_icon_hunt.png" width="65"/>
+  <img src="img/monster_walk.png" width="65"/>
+  <img src="img/monster_icon_chill.png" width="65"/>
+</p>
+
+<p align="center"><em>The mantis: hunting, visible, or passive.</em></p>
+
+---
 
 However, your powers are **limited**:
 
@@ -96,9 +120,12 @@ Once all buttons are activated:
 - The mantis becomes **furious** and will do anything to stop you.
 - The **exit portal** is now open—**reach it as fast as you can!**
 
-![Exit not_activated](img/exit_portal_close.png)
-![Exit activated](img/exit_portal.png)  
-*The exit portal close and open.*
+<p align="center">
+  <img src="img/exit_portal_close.png" width="75"/>
+  <img src="img/exit_portal.png" width="75"/>
+</p>
+
+<p align="center"><em>The exit: before and after activation.</em></p>
 
 ---
 
