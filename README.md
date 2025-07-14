@@ -39,6 +39,19 @@ To ensure efficient progress, we implemented a few simple but effective strategi
 
 ---
 
+## Repository Structure
+
+You can find the source code for the different parts of the project in the folders:
+
+- `phase1` – First phase: learning and prototyping
+- `phase2` – Second phase: final game development
+
+Additional explanations about the game and other activities are available in the `resources` folder.
+
+Screenshots and demo videos of the various activities can be found in the `demos` folder.
+
+---
+
 ## Phase 1 – Learning and Prototyping
 
 ### Individual Work
