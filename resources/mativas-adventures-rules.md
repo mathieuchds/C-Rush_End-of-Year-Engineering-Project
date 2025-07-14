@@ -50,13 +50,13 @@ You begin in a dark maze, next to a **magical portal**. Your first mission:
 
 The number of buttons activated is shown on the **right side of the screen**.
 
-![Button counter examples – image 1](demo/button1.png)
-![Button counter examples – image 2](demo/button2.png)
-![Button counter examples – image 3](demo/button3.png)  
+![Button counter examples – image 1](img/button_icon.png)
+![Button counter examples – image 2](img/button_ice.png)
+![Button counter examples – image 3](img/button_sand.png)  
 *Examples of the button counter interface.*
 
-![Button counter examples – image 4](demo/button4.png)
-![Button counter examples – image 5](demo/button5.png)  
+![Button counter examples – image 4](img/button_swamp.png)
+![Button counter examples – image 5](img/button_water.png)  
 *Visual cues when buttons are activated.*
 
 ---
@@ -78,9 +78,9 @@ When the light is off:
 - This will injure the mantis, forcing it to **teleport back** to its green portal.
 - When it is not actively hunting you, its icon appears **grayed out**.
 
-![Mantis hidden icon](demo/mantis_hidden.png)
-![Mantis revealed](demo/mantis_visible.png)
-![Player attacking mantis](demo/mantis_attack.png)  
+![Mantis hidden icon](img/monster_icon_hunt.png)
+![Mantis revealed](img/monster_walk.png)
+![Mantis hidden icon2](img/monster_icon_chill.png)  
 *The mantis in various states: hidden, revealed, and vulnerable.*
 
 However, your powers are **limited**:
@@ -98,9 +98,9 @@ Once all buttons are activated:
 - The mantis becomes **furious** and will do anything to stop you.
 - The **exit portal** is now open—**reach it as fast as you can!**
 
-![Maze lit up](demo/maze_lit.png)
-![Exit activated](demo/exit_open.png)  
-*The illuminated maze and open exit.*
+![Exit not_activated](img/exit_portal_close.png)
+![Exit activated](demo/exit_portal.png)  
+*The exit portal close and open.*
 
 ---
 
