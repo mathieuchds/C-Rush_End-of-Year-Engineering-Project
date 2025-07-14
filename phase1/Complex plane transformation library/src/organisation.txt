@@ -1,0 +1,20 @@
+Fonctions niveau 1 :
+
+-Application d'une transformation sur une image
+void applique_transformation(SDL_Surface *originale, SDL_Surface *destination,
+                              transformation t,
+                              coordonnee_complexe (*transformation_inverse)(transformation));
+
+-Permet d'enchainer plusieurs transformations
+SDL_Surface * surface_to_surface(SDL_Surface * surf_originale, transformation t, coordonnee_complexe (*transformation_inverse)(transformation))
+
+
+Fonction niveau 2 : 
+
+coordonnee_complexe zoom_transformation_inverse(transformation t);
+coordonnee_complexe rotation_transformation_inverse(transformation t);
+coordonnee_complexe translation_transformation_inverse(transformation t);
+coordonnee_complexe zoom_surx_transformation_inverse(transformation t);
+coordonnee_complexe zoom_sury_transformation_inverse(transformation t);
+coordonnee_complexe zoom_rond_transformation_inverse(transformation t);
+
