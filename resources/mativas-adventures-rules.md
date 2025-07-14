@@ -99,7 +99,7 @@ Once all buttons are activated:
 - The **exit portal** is now open—**reach it as fast as you can!**
 
 ![Exit not_activated](img/exit_portal_close.png)
-![Exit activated](demo/exit_portal.png)  
+![Exit activated](img/exit_portal.png)  
 *The exit portal close and open.*
 
 ---
