@@ -53,11 +53,9 @@ The number of buttons activated is shown on the **right side of the screen**.
 ![Button counter examples – image 1](img/button_icon.png)
 ![Button counter examples – image 2](img/button_ice.png)
 ![Button counter examples – image 3](img/button_sand.png)  
-*Examples of the button counter interface.*
-
 ![Button counter examples – image 4](img/button_swamp.png)
 ![Button counter examples – image 5](img/button_water.png)  
-*Visual cues when buttons are activated.*
+*Differents buttons in function of biom*
 
 ---
 
